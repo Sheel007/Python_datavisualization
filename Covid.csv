@@ -1,0 +1,52 @@
+Code,State,fips,Case,Death
+AL,Alabama,1,7068,272
+AK,Alaska,2,353,7
+AZ,Arizona,4,7648,320
+AR,Arkansas,5,3281,61
+CA,California,6,50470,2057
+CO,Colorado,8,15207,775
+CT,Connecticut,9,27700,2257
+DE,Delaware,10,4734,152
+D.C.,District of Columbia,11,4323,224
+FL,Florida,12,33683,1267
+GA,Georgia,13,25431,1121
+HI,Hawaii,15,609,16
+ID,Idaho,16,2016,63
+IL,Illinois,17,52918,2361
+IN,Indiana,18,18099,1114
+IA,Iowa,19,7145,162
+KS,Kansas,20,4305,133
+KY,Kentucky,21,4708,240
+LA,Louisiana,22,28044,1905
+ME,Maine,23,1095,53
+MD,Maryland,24,21825,1139
+MA,Massachusetts,25,62205,3562
+MI,Michigan,26,41347,3788
+MN,Minnesota,27,5136,343
+MS,Mississippi,28,6815,261
+MO,Missouri,29,7563,341
+MT,Montana,30,452,16
+NE,Nebraska,31,4332,70
+NV,Nevada,32,5053,243
+NH,New Hampshire,33,2146,72
+NJ,New Jersey,34,118652,7228
+NM,New Mexico,35,3411,123
+NY,New York,36,309696,23616
+NC,North Carolina,37,10507,385
+ND,North Dakota,38,1067,19
+OH,Ohio,39,18027,975
+OK,Oklahoma,40,3618,222
+OR,Oregon,41,2510,103
+PA,Pennsylvania,42,48224,2580
+RI,Rhode Island,44,8621,266
+SC,South Carolina,45,6095,244
+SD,South Dakota,46,2450,17
+TN,Tennessee,47,10506,200
+TX,Texas,48,29072,828
+UT,Utah,49,4672,46
+VT,Vermont,50,866,48
+VA,Virginia,51,15846,552
+WA,Washington,53,14696,822
+WV,West Virginia,54,1125,44
+WI,Wisconsin,55,6854,316
+WY,Wyoming,56,559,7
